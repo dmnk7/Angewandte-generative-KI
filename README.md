@@ -12,3 +12,4 @@
 - Kalender auslesen
 - Mails lesen
 - Kontakte synchronisieren
+- Externe API als "Experte"
