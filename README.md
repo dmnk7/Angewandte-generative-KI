@@ -9,4 +9,6 @@
 
 ## Nice-to-have
 
-- 
+- Kalender auslesen
+- Mails lesen
+- Kontakte synchronisieren
